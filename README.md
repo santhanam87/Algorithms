@@ -1,2 +1,10 @@
-# Alogrithms
- Practical algorithm test.
+# Fundamentals Alogrithms
+  ## Searching
+     ### Bubble
+     ### Insertion
+     ### Merge
+  ## Sorting
+  ## Indexing
+  ## Graphing
+ 
+ 
