@@ -1,8 +1,8 @@
 # Fundamentals Alogrithms
   ## Searching
-     ### Bubble
-     ### Insertion
-     ### Merge
+     Bubble
+     Insertion
+     Merge
   ## Sorting
   ## Indexing
   ## Graphing
